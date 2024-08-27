@@ -1,11 +1,12 @@
 <template>
-  <CommentsApp/>
+  <div class="border-b border-gray-300 my-2 mb-4">
+  </div>
 </template>
 
 <script setup lang="ts">
-import CommentsApp from './CommentsApp.vue';
+
 </script>
 
 
 <style scoped>
-</style> 
+</style>
